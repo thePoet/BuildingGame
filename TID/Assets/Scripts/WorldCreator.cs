@@ -20,6 +20,7 @@ public class WorldCreator : MonoBehaviour {
 		
 		worldGrid.AddBlock (dirtPrefab, 0,  2 );
 		worldGrid.AddBlock (dirtPrefab, 0,  1 );
+		worldGrid.AddBlock (dirtPrefab, 1,  1 );
 
 	}
 	
